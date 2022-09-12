@@ -3,7 +3,7 @@
 #include <unistd.h>
 /**
  * main - main block
- * Return: 1 not 0 
+ * Return: 1 
  */
 int main(void)
 {
