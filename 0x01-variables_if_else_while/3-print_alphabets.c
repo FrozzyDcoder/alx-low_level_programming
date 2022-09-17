@@ -2,7 +2,7 @@
 
 /**
  * main -main block
- * Description: print alphabets is lower then upper case
+ *  Description: Use `putchar` to print lowercase and then uppercase alphabet.
  * return:0
  */
 int main(void)
