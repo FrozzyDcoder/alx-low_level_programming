@@ -3,12 +3,13 @@
 #include <time.h>
 /**
  * main - main block
- * Description:  a program that prints all single numbers of base 10 starting from 0.
+ * Description: prints all single numbers of base 10 starting from 0.
  * Return: 0
  */
 int main(void)
 {
 	char c = '0';
+
 	while (c <= '9')
 
 	{
