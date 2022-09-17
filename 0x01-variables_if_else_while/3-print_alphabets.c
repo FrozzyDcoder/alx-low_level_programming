@@ -22,7 +22,7 @@ int main(void)
 			c++;
 		}
 
-	putchar('char '\n');
+	putchar(char '\n');
 
 return (0);
 }
