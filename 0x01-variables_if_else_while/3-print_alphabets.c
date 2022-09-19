@@ -3,7 +3,7 @@
 /**
  * main - main block
  *  Description: Use `putchar` to print lowercase and then uppercase alphabet.
- * return:0
+ * return: 0
  */
 int main(void)
 {
