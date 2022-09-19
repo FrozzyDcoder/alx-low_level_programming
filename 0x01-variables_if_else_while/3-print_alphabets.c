@@ -2,8 +2,8 @@
 
 /**
  * main - main block
- *  Description: Use `putchar` to print lowercase and then uppercase alphabet.
- * return: 0
+ * Description: Use `putchar` to print lowercase and then uppercase alphabet.
+ * Return: 0
  */
 int main(void)
 {
@@ -24,5 +24,6 @@ int main(void)
 		}
 
 	putchar('\n');
+
 	return (0);
 }
