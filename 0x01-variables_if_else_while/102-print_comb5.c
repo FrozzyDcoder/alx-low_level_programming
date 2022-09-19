@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	int c, c_two
+	int c, c_two;
 
 	for (c = 0; c <= 98; c++)
 	{
@@ -28,4 +28,3 @@ int main(void)
 
 	return (0);
 }
-
